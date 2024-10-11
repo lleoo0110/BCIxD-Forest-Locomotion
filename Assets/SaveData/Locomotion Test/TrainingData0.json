@@ -1,0 +1,15 @@
+{
+    "isConcludeTraining": true,
+    "trainingName": "安静",
+    "trainingCount": 1,
+    "trainingVideoLink": "/Users/lleoo/Documents/大学授業/研究/BCIxD Training/Speech Imagery/SpeechImagery_rest.mp4",
+    "canSetTraining": false,
+    "trainingColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "trainingVideoTime": 1.0010000467300416,
+    "currentTrainingNum": 4
+}
